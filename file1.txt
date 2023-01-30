@@ -1,1 +1,2 @@
 Hi This is file1 which we can changes in both places. I'm currenly in Main Branch.
+line added from branch2.
